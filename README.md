@@ -9,8 +9,8 @@
 
 # Макет(адаптив)
 ### Компютерна Версія
- !(./docx/Screenshot_20241004_084246.png)
+ ![PC](./docx/Screenshot_20241004_084246.png)
 
 ### Мобільна Версія
-![PC](./docx/Screenshot_20241004_084501.png)
+![Mobile](./docx/Screenshot_20241004_084501.png)
 ![Mobile](./docx/Screenshot_20241004_084548.png)
