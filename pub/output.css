@@ -618,13 +618,10 @@ video {
   top: 0.25rem;
 }
 
-<<<<<<< HEAD
 .top-9 {
   top: 2.25rem;
 }
 
-=======
->>>>>>> 87cfdbd (Initial commit)
 .col-auto {
   grid-column: auto;
 }
@@ -633,13 +630,10 @@ video {
   grid-row: auto;
 }
 
-<<<<<<< HEAD
 .m-auto {
   margin: auto;
 }
 
-=======
->>>>>>> 87cfdbd (Initial commit)
 .mx-3 {
   margin-left: 0.75rem;
   margin-right: 0.75rem;
@@ -707,7 +701,6 @@ video {
   display: table;
 }
 
-<<<<<<< HEAD
 .table-cell {
   display: table-cell;
 }
@@ -716,8 +709,6 @@ video {
   display: table-column;
 }
 
-=======
->>>>>>> 87cfdbd (Initial commit)
 .grid {
   display: grid;
 }
@@ -746,13 +737,10 @@ video {
   height: 0.25rem;
 }
 
-<<<<<<< HEAD
 .max-h-10 {
   max-height: 2.5rem;
 }
 
-=======
->>>>>>> 87cfdbd (Initial commit)
 .max-h-\[63px\] {
   max-height: 63px;
 }
@@ -765,13 +753,10 @@ video {
   width: 25%;
 }
 
-<<<<<<< HEAD
-=======
 .w-10 {
   width: 2.5rem;
 }
 
->>>>>>> 87cfdbd (Initial commit)
 .w-2 {
   width: 0.5rem;
 }
@@ -782,13 +767,10 @@ video {
 
 .w-3\/4 {
   width: 75%;
-<<<<<<< HEAD
-=======
 }
 
 .w-4 {
   width: 1rem;
->>>>>>> 87cfdbd (Initial commit)
 }
 
 .w-40 {
@@ -825,37 +807,6 @@ video {
 
 .w-full {
   width: 100%;
-<<<<<<< HEAD
-}
-
-.w-10 {
-  width: 2.5rem;
-}
-
-.w-4 {
-  width: 1rem;
-}
-
-.w-1\/2 {
-  width: 50%;
-}
-
-.w-4\/5 {
-  width: 80%;
-}
-
-.w-5 {
-  width: 1.25rem;
-}
-
-.w-6 {
-  width: 1.5rem;
-}
-
-.w-7 {
-  width: 1.75rem;
-=======
->>>>>>> 87cfdbd (Initial commit)
 }
 
 .flex-1 {
@@ -991,15 +942,14 @@ video {
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }
 
-<<<<<<< HEAD
-.bg-gray-300 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(209 213 219 / var(--tw-bg-opacity));
-=======
 .bg-blue-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(59 130 246 / var(--tw-bg-opacity));
->>>>>>> 87cfdbd (Initial commit)
+}
+
+.bg-gray-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(209 213 219 / var(--tw-bg-opacity));
 }
 
 .bg-gray-500 {
@@ -1017,46 +967,30 @@ video {
   background-color: rgb(23 23 23 / var(--tw-bg-opacity));
 }
 
-<<<<<<< HEAD
-=======
 .bg-red-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(239 68 68 / var(--tw-bg-opacity));
 }
 
->>>>>>> 87cfdbd (Initial commit)
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-<<<<<<< HEAD
-.bg-blue-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(59 130 246 / var(--tw-bg-opacity));
-}
-
-.bg-red-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(239 68 68 / var(--tw-bg-opacity));
-}
-
 .p-1 {
   padding: 0.25rem;
 }
 
-=======
-.p-1 {
-  padding: 0.25rem;
-}
-
->>>>>>> 87cfdbd (Initial commit)
 .p-10 {
   padding: 2.5rem;
 }
 
 .p-2 {
   padding: 0.5rem;
+}
+
+.p-20 {
+  padding: 5rem;
 }
 
 .p-3 {
@@ -1071,13 +1005,6 @@ video {
   padding: 1.25rem;
 }
 
-<<<<<<< HEAD
-.p-20 {
-  padding: 5rem;
-}
-
-=======
->>>>>>> 87cfdbd (Initial commit)
 .px-0 {
   padding-left: 0px;
   padding-right: 0px;
@@ -1103,19 +1030,8 @@ video {
   padding-bottom: 0.75rem;
 }
 
-<<<<<<< HEAD
-.px-60 {
-  padding-left: 15rem;
-  padding-right: 15rem;
-}
-
-.py-20 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-=======
 .pb-3 {
   padding-bottom: 0.75rem;
->>>>>>> 87cfdbd (Initial commit)
 }
 
 .pb-4 {
@@ -1130,8 +1046,6 @@ video {
   padding-left: 2.5rem;
 }
 
-<<<<<<< HEAD
-=======
 .pr-5 {
   padding-right: 1.25rem;
 }
@@ -1144,7 +1058,6 @@ video {
   padding-right: 24rem;
 }
 
->>>>>>> 87cfdbd (Initial commit)
 .pt-1 {
   padding-top: 0.25rem;
 }
@@ -1153,25 +1066,6 @@ video {
   padding-top: 1.25rem;
 }
 
-<<<<<<< HEAD
-.pb-3 {
-  padding-bottom: 0.75rem;
-}
-
-.pr-5 {
-  padding-right: 1.25rem;
-}
-
-.pr-6 {
-  padding-right: 1.5rem;
-}
-
-.pr-96 {
-  padding-right: 24rem;
-}
-
-=======
->>>>>>> 87cfdbd (Initial commit)
 .pt-6 {
   padding-top: 1.5rem;
 }
